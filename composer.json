@@ -19,6 +19,7 @@
 		"source":   "https://github.com/KodiCMS/module-widget"
 	},
 	"require": {
-		"kodicms/core": "dev-master"
+		"kodicms/core"		: "dev-master",
+		"kodicms/snippet"	: "dev-master"
 	}
 }
