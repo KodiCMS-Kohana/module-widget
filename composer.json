@@ -1,10 +1,10 @@
 {
-	"name":        "kodicms/widgets",
+	"name":        "kodicms/widget",
 	"type":        "kodicms-module",
 	"description": "The official KodiCMS page module",
 	"homepage":    "http://www.kodicms.ru/",
 	"license":     "BSD-3-Clause",
-	"keywords":    ["kohana", "framework", "kodicms", "cms", "module", "widgets"],
+	"keywords":    ["kohana", "framework", "kodicms", "cms", "module", "widget"],
 	"authors": [
 		{
 			"name":     "Pavel Buchnev",
