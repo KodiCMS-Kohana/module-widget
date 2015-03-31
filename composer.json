@@ -18,8 +18,13 @@
 		"forum":    "http://www.kodicms.ru/forum",
 		"source":   "https://github.com/KodiCMS/module-widget"
 	},
+	"autoload": {
+		"psr-4": {
+			"KodiCMS\\Widget\\": 	"classes"
+		}
+	},
 	"require": {
-		"kodicms/core"		: "dev-master",
-		"kodicms/snippet"	: "dev-master"
+		"kodicms/core"		: "dev-psr_4",
+		"kodicms/snippet"	: "dev-psr_4"
 	}
 }
